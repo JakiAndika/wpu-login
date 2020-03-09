@@ -1,0 +1,71 @@
+.row, .col-sm {
+    margin-left: 1px;
+    margin-top: 12px;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+}
+
+#button{
+    margin-left: 500px;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 50%;
+    border: 1px solid silver;
+    
+}
+.carousel-item img{
+    width: 100%;
+    height: 50%;
+}
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+    border-bottom: 2px black;
+}
+
+.line{
+    border-bottom: 2px solid gainsboro;
+}
+.col-sm, img{
+    width: 150px;
+    height: 100px;
+}
+#emailHelp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.list-future{
+    color: darkslategray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.paragraf{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(54, 190, 54);
+    color: white;
+    width: 100px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 200px;
+    font-weight: bold;
+}
+#hover:hover{
+    cursor: pointer;
+    box-shadow: 5px 2px 7px silver;
+}
+#row {
+    margin-top: 180px;
+}
+.line1{
+    border-bottom: 2px solid gainsboro;
+    margin-top: 140px;
+}
+
+#heading{
+    margin-top: 70px;
+}
